@@ -1,4 +1,4 @@
-##🔧 Predicting Cybersecurity Incident Triage Grades
+#🔧 Predicting Cybersecurity Incident Triage Grades
 
 Overview
 
