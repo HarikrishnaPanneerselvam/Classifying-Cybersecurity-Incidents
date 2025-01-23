@@ -1,0 +1,8 @@
+Technology Stack:
+
+Python: Primary programming language.
+Pandas, NumPy: For data processing and manipulation.
+Scikit-Learn: Core machine learning library.
+XGBoost, LightGBM: Advanced boosting algorithms for performance enhancement.
+Matplotlib, Seaborn: Tools for visualization and exploratory analysis.
+SMOTE: Synthetic oversampling for imbalanced datasets.
